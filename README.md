@@ -35,7 +35,7 @@ Run `supabase/schema.sql` in your Supabase SQL editor.
 - [ ] Deploy frontend to Vercel
 
 ## Stack
-- **Frontend**: Next.js 14 + Tailwind css + shadcn/ui
+- **Frontend**: Next.js 14 + Tailwind + shadcn/ui
 - **Backend**: FastAPI (Python)
 - **Database**: Supabase (PostgreSQL)
 - **Storage**: Cloudflare R2
